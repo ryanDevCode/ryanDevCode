@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on learning and exploring new things.
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently exploring new tech stacks, currently I used ReactJS, VueJS, Javascrip, PHP and Laravel.
 - 📫 How to reach me: Through the links on profile, email or linkedIn
