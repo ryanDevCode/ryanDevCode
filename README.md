@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on learning and exploring new things.
-- 🌱 I’m currently exploring new tech stacks, currently mmy tech stack is ReactJS, VueJS, Javascrip, PHP and Laravel.
-- 📫 How to reach me: Through the links on profile, email or linkedIn
+- 🌱 I’m currently exploring new tech stacks, currently my tech stack is ReactJS, VueJS, Javascript, PHP and Laravel.
+- 📫 How to reach me: Through the links on profile, email or LinkedIn
