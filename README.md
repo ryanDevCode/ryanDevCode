@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- [Portfolio](https://jason-ryan-porfolio.netlify.app)
 - 🔭 I’m currently working on learning and exploring new things.
 - 🌱 I’m currently exploring new tech stacks, currently my tech stack is ReactJS, VueJS, Javascript, PHP and Laravel.
 - 📫 How to reach me: Through the links on profile, email or LinkedIn
