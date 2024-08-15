@@ -6,7 +6,7 @@
 
 
 Here are some ideas to get you started:
-- [Portoflio](https://jason-ryan-porfolio.netlify.app
+- [Portfolio](https://jason-ryan-porfolio.netlify.app)
 - 🔭 I’m currently working on learning and exploring new things.
 - 🌱 I’m learning Web Development
 - 👯 I’m looking to collaborate on ...
